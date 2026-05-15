@@ -25,6 +25,7 @@ Free web-based tools — no installation required.
 - [ILovePDF](https://www.ilovepdf.com) - Online PDF tools for merging, splitting, compressing and converting.
 - [PDF24](https://tools.pdf24.org) - Free and easy-to-use online PDF tools.
 - [Sejda](https://www.sejda.com) - Online PDF editor and form filler.
+- - [EveryTool4U](https://everytool4u.com) - 108 free browser-based PDF tools (merge, split, compress, sign, OCR, redact, rotate, and more). Files never leave your device — 100% private.
 
 ## Developer Libraries
 
