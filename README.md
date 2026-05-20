@@ -82,3 +82,10 @@ To add a tool or resource:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is dedicated to the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+
+---
+
+## 🌐 All-in-One PDF Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools. Comprehensive PDF suite (merge, split, compress, sign, OCR, redact, rotate, watermark, flatten, unlock) + image AI tools (background removal, HEIC→JPG, resize, compress) + video to GIF + QR codes + invoices + developer utilities. All 100% client-side, zero upload.
