@@ -21,6 +21,7 @@ Whether you need to merge, split, compress, convert, or edit PDF files — this 
 Free web-based tools — no installation required.
 
 - [PDFKits](https://pdfkits.app) - Free online PDF toolkit with 37+ tools: merge, split, compress, convert, rotate, and more. 100% private, no upload required, works directly in your browser.
+- [Slay PDF](https://slaypdf.com/) - Free local PDF editor for merging, splitting, signing, resizing, posterising, redacting and editing PDFs in the browser. Open source and no account required.
 - [Smallpdf](https://smallpdf.com) - Popular PDF tool suite for compression, conversion and editing.
 - [ILovePDF](https://www.ilovepdf.com) - Online PDF tools for merging, splitting, compressing and converting.
 - [PDF24](https://tools.pdf24.org) - Free and easy-to-use online PDF tools.
