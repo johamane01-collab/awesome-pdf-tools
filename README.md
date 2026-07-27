@@ -25,6 +25,7 @@ Free web-based tools — no installation required.
 - [ILovePDF](https://www.ilovepdf.com) - Online PDF tools for merging, splitting, compressing and converting.
 - [PDF24](https://tools.pdf24.org) - Free and easy-to-use online PDF tools.
 - [Sejda](https://www.sejda.com) - Online PDF editor and form filler.
+- [gottrix](https://gottrix.app) - Free browser-based PDF toolkit (merge, split, compress, convert, OCR, redact, sign, edit), part of a larger 500+ tool client-side file-conversion suite. 100% client-side via WebAssembly, no uploads.
 
 ## Developer Libraries
 
