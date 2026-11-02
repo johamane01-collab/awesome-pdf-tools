@@ -23,6 +23,7 @@ Free web-based tools — no installation required.
 - [PDFKits](https://pdfkits.app) - Free online PDF toolkit with 37+ tools: merge, split, compress, convert, rotate, and more. 100% private, no upload required, works directly in your browser.
 - [Smallpdf](https://smallpdf.com) - Popular PDF tool suite for compression, conversion and editing.
 - [ILovePDF](https://www.ilovepdf.com) - Online PDF tools for merging, splitting, compressing and converting.
+- [OpenP7M](https://openp7m.com/en/) - Browser-based tool for reading PDFs inside P7M files and supported Italian FatturaPA XML. The full preview is free with a watermark; single-file export costs €1.99, and local integrity checks do not validate certificate trust or legal signature validity.
 - [PDF24](https://tools.pdf24.org) - Free and easy-to-use online PDF tools.
 - [Sejda](https://www.sejda.com) - Online PDF editor and form filler.
 
