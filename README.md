@@ -20,6 +20,7 @@ Whether you need to merge, split, compress, convert, or edit PDF files — this 
 
 Free web-based tools — no installation required.
 
+- [Mdpresso](https://mdpresso.com/) - Browser-based PDF splitter for extracting pages or ranges without uploading files.
 - [PDFKits](https://pdfkits.app) - Free online PDF toolkit with 37+ tools: merge, split, compress, convert, rotate, and more. 100% private, no upload required, works directly in your browser.
 - [Smallpdf](https://smallpdf.com) - Popular PDF tool suite for compression, conversion and editing.
 - [ILovePDF](https://www.ilovepdf.com) - Online PDF tools for merging, splitting, compressing and converting.
