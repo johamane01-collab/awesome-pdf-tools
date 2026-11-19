@@ -1,3 +1,4 @@
+- [Gingertool PDF Merge](https://gingertool.com/en/pdf/merge-pdf/) - Merge multiple PDF files in your browser without uploading them or creating an account.
 # Awesome PDF Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of the best free online PDF tools, libraries, and resources for developers and everyday users.
